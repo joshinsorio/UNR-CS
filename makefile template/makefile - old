@@ -1,0 +1,14 @@
+
+
+proj3:      Sorter.o main.o
+    g++ -o proj3 *.o -std=c++11
+
+main.o:     Sorter.hpp main.cpp
+    g++ -c -o main.o main.cpp -std=c++11
+
+Sorter.o:   Sorter.hpp Sorter.cpp
+    g++ -c -o Sorter.o Sorter.cpp -std=c++11
+
+clean:
+    rm -f *.o proj3
+
