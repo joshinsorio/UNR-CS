@@ -1,0 +1,157 @@
+{
+  "userlist":
+  [
+    {
+      "username": "2001296266",
+      "password": "c3a0405efaa702157adab7f1250b6ee5860d458b250bf3ff84618321c1cf6272",
+      "units":
+      [
+        {
+          "id": "138052",
+          "room": "101",
+          "hugSensitivity": 6,
+          "musicVolume": 24,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "132580",
+          "room": "102",
+          "hugSensitivity": 7,
+          "musicVolume": 34,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "149295",
+          "room": "103",
+          "hugSensitivity": 2,
+          "musicVolume": 60,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        }
+      ]
+    },
+    {
+      "username": "2001167904",
+      "password": "76dfd234968dd03951977c35bebdeab955d34a6adc0538a520da3926b6824cdb",
+      "units":
+      [
+        {
+          "id": "208502",
+          "room": "201",
+          "hugSensitivity": 7,
+          "musicVolume": 69,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "259335",
+          "room": "202",
+          "hugSensitivity": 4,
+          "musicVolume": 20,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        }
+      ]
+    },
+    {
+      "username": "2001363710",
+      "password": "1E6C2AC74D7DED4B4818FC04B45D5E45ADE379E425AEE84FEA40FD01D2E28E52",
+      "units":
+      [
+        {
+          "id": "324893",
+          "room": "301",
+          "hugSensitivity": 4,
+          "musicVolume": 76,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "390593",
+          "room": "302",
+          "hugSensitivity": 6,
+          "musicVolume": 33,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "352663",
+          "room": "303",
+          "hugSensitivity": 3,
+          "musicVolume": 66,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        }
+      ]
+    },
+    {
+      "username": "5004650035",
+      "password": "a8f2407311473969817d8e0921f648dfba0aa48a0f5167af429e5cfb6a54841b",
+      "units":
+      [
+        {
+          "id": "432589",
+          "room": "401",
+          "hugSensitivity": 5,
+          "musicVolume": 78,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "425532",
+          "room": "402",
+          "hugSensitivity": 1,
+          "musicVolume": 10,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "406025",
+          "room": "403",
+          "hugSensitivity": 6,
+          "musicVolume": 55,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        },
+        {
+          "id": "490592",
+          "room": "404",
+          "hugSensitivity": 4,
+          "musicVolume": 56,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        }
+      ]
+    },
+    {
+      "username": "5005249946",
+      "password": "3cc7796c59090801d009d798be0ccfceaac5f7b7d06c44d96726c9cd3792b4f9",
+      "units":
+      [
+        {
+          "id": "542505",
+          "room": "501",
+          "hugSensitivity": 3,
+          "musicVolume": 84,
+          "hugSchedule": [],
+          "musicSchedule": [],
+          "otherSchedule": []
+        }
+      ]
+    }
+  ]
+}

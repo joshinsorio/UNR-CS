@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.plush">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <application
+        android:name=".data.DataApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PLUSH"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".StaffAddScheduleScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffRemoveScheduleScreen"
+            android:exported="false" />
+        <activity
+            android:name=".PatientPlushHomeScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ConstructionScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffSupportScreen"
+            android:exported="false" />
+        <activity
+            android:name=".MusicSelectionScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffScheduleScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffMusicScreen"
+            android:exported="false" />
+        <activity
+            android:name=".staff_SoftwareDetailsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffSettingsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffPlushUnitScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffFeedbackScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffHomeScreen"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StaffAddUnitScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StaffRemoveUnitScreen"
+            android:exported="false" />
+        <activity
+            android:name=".PatientLoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".SelectAccountScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".StaffLoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".DebugScreen"
+            android:exported="false" />
+    </application>
+
+</manifest>
