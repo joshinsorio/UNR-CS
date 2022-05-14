@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/CS-420-AutoCart/AutoCart/app/src/main/res/layout/adapter_view_layout.xml" value="0.26721014492753625" />
+        <entry key="..\:/Code/CS-420-AutoCart/AutoCart/app/src/main/res/layout/autocart_addingredientpage.xml" value="0.9" />
+        <entry key="..\:/Code/CS-420-AutoCart/AutoCart/app/src/main/res/layout/autocart_ingredientpage.xml" value="0.33" />
+        <entry key="..\:/Code/CS-420-AutoCart/AutoCart/app/src/main/res/layout/autocart_removeingredientpage.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/AutoCartLogo_background.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/drawable/SettingIcon_background.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/drawable/SettingIcon_foreground.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3003672928903765" />
+        <entry key="app/src/main/res/layout/autocart_addingredientpage.xml" value="0.29444444444444445" />
+        <entry key="app/src/main/res/layout/autocart_addshoppingpage.xml" value="0.29444444444444445" />
+        <entry key="app/src/main/res/layout/autocart_configpage.xml" value="0.39154943767626765" />
+        <entry key="app/src/main/res/layout/autocart_feedbackpage.xml" value="0.2889733840304182" />
+        <entry key="app/src/main/res/layout/autocart_homepage.xml" value="0.29444444444444445" />
+        <entry key="app/src/main/res/layout/autocart_ingredientpage.xml" value="0.4044628952878174" />
+        <entry key="app/src/main/res/layout/autocart_pushnotif.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/autocart_removeingredientpage.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/autocart_removeshoppingpage.xml" value="0.20427916733550905" />
+        <entry key="app/src/main/res/layout/autocart_settingspage.xml" value="0.19470364243274366" />
+        <entry key="app/src/main/res/layout/autocart_shoppingpage.xml" value="0.29444444444444445" />
+        <entry key="app/src/main/res/layout/autocart_sortmenu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/autocart_supportpage.xml" value="0.2111111111111111" />
+        <entry key="app/src/main/res/menu/autocart_ingredientmenu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/autocart_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/autocart_shoppingmenu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
